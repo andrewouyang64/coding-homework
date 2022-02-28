@@ -43,26 +43,25 @@ body {
     text-decoration: none;
 }
 
-.meeting-image {
+.meeting-image img {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
 
-.resources {
+.content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.resources p {
+.content p {
     font-size: 16px;
 }
 
-.resource-images {
+.content-images {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -81,11 +80,11 @@ body {
     margin-right: 25px;
 }
 
-.resource-images img {
+.content-images img {
     max-height: 200px;
 }
 
-.resource-images h2 {
+.content-images h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
